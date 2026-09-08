@@ -117,10 +117,11 @@ The Chi-Square test returns a p-value of 0.1918, which is well above the signifi
 
 ## Author & Contact
 
-| Field |	Info |
-|-------|------|
-|Name	| KRISHNA |
-|LinkedIn |	https://www.linkedin.com/in/krishna-krishna-26a106231/ |
-|GitHub	| https://github.com/ |
+| | |
+|--|--|
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
 
-⭐ If you found this project helpful, consider giving it a star!
+
+⭐ **If you found this project helpful, consider giving it a star!**
